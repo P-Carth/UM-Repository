@@ -5,11 +5,11 @@
 > Name of company 
  `THE SANDBOX`
 
-* When was the company incorporated? 
-> 2012, but shifted focus to blockchain in 2018
+> When was the company incorporated? 
+`2012, but shifted focus to blockchain in 2018`
 
-* Who are the founders of the company? 
-> Sebastien Borget & Arthur Madrid
+> Who are the founders of the company? 
+`Sebastien Borget & Arthur Madrid`
 
 * How did the idea for the company (or project) come about? 
 > It started as a creative, pixelated game and shifted over time
