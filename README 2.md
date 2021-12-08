@@ -2,8 +2,8 @@
 
 ## The following is a short case study of a company in the FinTech domain
 
-* Name of company 
-> THE SANDBOX
+> Name of company 
+ `THE SANDBOX`
 
 * When was the company incorporated? 
 > 2012, but shifted focus to blockchain in 2018
