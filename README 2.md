@@ -3,7 +3,9 @@
 ## The following is a short case study of a company in the FinTech domain
 
 > Name of company 
- `THE SANDBOX`
+ `THE SANDBOX` <p align="right">
+<img src="https://static.news.bitcoin.com/wp-content/uploads/2021/06/tsb_banner_7.png" width="100" height="100" border="10"/>
+</p>
 
 > When was the company incorporated? 
 `2012` <sub> but shifted focus to blockchain in 2018 </sub>
