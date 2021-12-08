@@ -51,19 +51,19 @@
 >The sandbox has already had a large business impact which can be seen in `competitor metaverses`, `competitor play-to-earn games`, as well as the concept of `the creator economy`. As one of the first and most prominent metaverses, The Sandbox has set a standard to uphold of competitors to provide a platform that allows creative freedom, the ability to remotely connect with others in a more meaningful manner, and to create money-generating opportunities within an ecosystem. In addition, The Sandbox has brought public interest to emerging defi technologies.
 #### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 > For companies such as The Sandbox, which fall under the categories of play-to-earn and metaverse. Success can be measured quantitatively by looking at the `increase in consumers using their technology`, `the amount of money consumers are investing in their company as well as virtual assets`, and `the increase in value of those virtual assets` (for example the digital real estate that can be purchased)
+
+> Based on these metrics, The Sandbox is performing very well.
 #### How is your company performing relative to competitors in the same domain?
 > The Sandbox seems to have a lot of momentum and is consistantly listed in the top 3, when asked which metaverses are performing best. The concensus seems to be that The Sandbox is `doing extremely well`.
 
 ## Recommendations
 
 #### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
->I would strongly suggest that this company figure out how to incorporate as many real world brands into their metaverse ecosystem as possible. 
-
->Not only does this strengthen their connection to the consumers, but this would allow for multualistic bonds between companies, allowing businesses to have a relevant and online presence, while the Sandbox would become a trusted community and ecosystem in the process.
+>I would strongly suggest that this company figure out how to incorporate as many real world brands into their metaverse ecosystem as possible. Not only does this strengthen their connection to the consumers, but this would allow for multualistic bonds between companies, allowing businesses to have a relevant and online presence, while the Sandbox would become a trusted community and ecosystem in the process.
 #### Why do you think that offering this product or service would benefit the company?
->
+> This step is mandatory. If they cannot build a strong relationship with businesses and their community as a whole promptly, another company will step in and do it first. 
 #### What technologies would this additional product or service utilize?
->
+> This may require enhancements to their software to faicilate access to the non-technologically inclined. If they cannot make the game easy to use, businesses will likely settle for the next best thing given it is more user-friendly. In addition to facilitated interface, aquiring new relationships with businesses will require massive marketing efforts to show businesses how The Sandbox metaverse can be beneficial.
 #### Why are these technologies appropriate for your solution?
 >
 
