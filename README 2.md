@@ -6,7 +6,7 @@
  `THE SANDBOX`
 
 > When was the company incorporated? 
-`2012, but shifted focus to blockchain in 2018.`
+`2012 <sub> but shifted focus to blockchain in 2018 </sub>`
 
 > Who are the founders of the company? 
 `Sebastien Borget & Arthur Madrid.`
