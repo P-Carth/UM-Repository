@@ -22,7 +22,7 @@
 ## Business Activities:
 
 #### What specific financial problem is the company or project trying to solve?
-> `This company is company is one of the few who are currently leading in the trend of metaverse. They aim to bring people together in a new fashion by leveraging technological advancements in Gaming, NFTs, Social Media, and Fintech.`
+> This company is company is one of the few who are currently leading in the trend of metaverse. They aim to bring people together in a new fashion by leveraging technological advancements in Gaming, NFTs, Social Media, and Fintech. Financially speaking, this company attempts to `improve the concept of play-to-earn`, steering toward providing the ability to make a (real-world) living within their metaverse.
 
 #### Who is the company's intended customer? Is there any information about the market size of this set of customers? What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 >While Sandbox has not made clear their target audience, research shows that 90% of metaverse related conversations are held by `Millennials and GenZ`, so it would be wise to assume those as a target. 
@@ -59,13 +59,19 @@
 ## Recommendations
 
 #### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
->I would strongly suggest that this company figure out how to incorporate as many real world brands into their metaverse ecosystem as possible. Not only does this strengthen their connection to the consumers, but this would allow for multualistic bonds between companies, allowing businesses to have a relevant and online presence, while the Sandbox would become a trusted community and ecosystem in the process.
+>I would strongly suggest that this company figure out how to incorporate as many real world brands into their metaverse ecosystem as possible. Not only does this strengthen their connection to the consumers, but this would allow for multualistic bonds between companies, allowing businesses to have a relevant and online presence, while the Sandbox would become a trusted community and ecosystem in the process. This would include unique and creative advertising opportunities, and user friendly GUIs.
 #### Why do you think that offering this product or service would benefit the company?
 > This step is mandatory. If they cannot build a strong relationship with businesses and their community as a whole promptly, another company will step in and do it first. 
 #### What technologies would this additional product or service utilize?
-> This may require enhancements to their software to faicilate access to the non-technologically inclined. If they cannot make the game easy to use, businesses will likely settle for the next best thing given it is more user-friendly. In addition to facilitated interface, aquiring new relationships with businesses will require massive marketing efforts to show businesses how The Sandbox metaverse can be beneficial.
+> This may require enhancements to their software to facilitate access to the non-technologically inclined. If they cannot make the game easy to use, businesses will likely settle for the next best thing given it is more user-friendly. In addition to facilitated interface, aquiring new relationships with businesses will require massive marketing efforts to show businesses how The Sandbox metaverse can be beneficial.
 #### Why are these technologies appropriate for your solution?
->
+> As The Sandbox in and of itself is an immersive experience for its users, in order to immerse people in the first place the user experience is going to need to be as simplified as possible. It can be intimidating and off-putting to not understand a new technology even after putting in effort to try. Therefore, facilitation of interface is not only appropriate, but madatory. As the most popular social network ever made, Facebook (meta) knows a thing or two about user-experience and will happily provide a simplified experience to jump ahead.
 
 
-https://www.crunchbase.com/organization/the-sandbox-f24f
+<div> [Youtube] https://www.youtube.com/watch?v=ei4kgNfe2uM </div>
+<div> [Crunchbase] https://www.crunchbase.com/organization/the-sandbox-f24f </div>
+<div> [Medium] https://medium.com/sandbox-game/how-to-buy-a-land-in-the-sandbox-48e2a871cd36 </div>
+<div> [coindesk] https://www.coindesk.com/business/2021/11/02/metaverse-startup-the-sandbox-closes-93m-series-b-led-by-softbank/ </div>
+<div> [gitbook] https://sandboxgame.gitbook.io/the-sandbox/other/about-the-sandbox </div>
+<div> [inc4] https://inc4.net/exploring-gamefi-the-next-big-trend-to-follow-defi-and-nfts/ </div>
+
